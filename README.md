@@ -4,7 +4,7 @@
 
 ## Your Task
 
-Create a small web application that provides a dashboard showing all characters that played in the i-th episode of Rick and Morty order by the number of episodes the character played in. It should be easy to tell from the dashboard which character played in most episodes.
+Create a small web application that provides a dashboard showing all characters (id, name, status, species, gender and image) that played in the i-th episode of Rick and Morty order by the number of episodes the character played in. It should be easy to tell from the dashboard which character played in most episodes.
 
 Use RickAndMorty's [REST API](https://rickandmortyapi.com/documentation/#rest) to solve this challenge. The API is free to use and does not require an API key.
 
